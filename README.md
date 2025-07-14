@@ -1,2 +1,2 @@
 # Neural-Network
-First Neural Network program: proof of concept
+First Neural Network program: crosschecking the syntax and the basic ANN structure.
